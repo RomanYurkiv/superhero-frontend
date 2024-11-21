@@ -1,0 +1,20 @@
+.home {
+    padding: 20px;
+  }
+  
+  .superhero-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .superhero-list li {
+    margin-bottom: 10px;
+  }
+  
+  .pagination {
+    margin-top: 20px;
+  }
+  
+  .pagination button {
+    margin-right: 10px;
+  }
